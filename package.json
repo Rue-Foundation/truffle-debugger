@@ -15,7 +15,7 @@
   "author": "Tim Coulter <tim.coulter@consenseys.net>",
   "license": "MIT",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.4.0",
     "node-dir": "^0.1.16",
     "truffle-code-utils": "^1.0.0",
     "truffle-contract": "^2.0.0",
